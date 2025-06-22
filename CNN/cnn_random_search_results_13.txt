@@ -1,0 +1,116 @@
+Trial 1/25
+Trying: {'kernel_size': (3, 3), 'number_of_kernels': 64, 'batch_size': 8, 'dropout_rate': 0.4, 'pooling_layer': 'avg', 'num_of_conv_layers': 4}
+Validation accuracy: 0.9109
+New best model found
+
+Trial 2/25
+Trying: {'kernel_size': (3, 3), 'number_of_kernels': 32, 'batch_size': 8, 'dropout_rate': 0.4, 'pooling_layer': 'avg', 'num_of_conv_layers': 2}
+Validation accuracy: 0.9006
+
+Trial 3/25
+Trying: {'kernel_size': (3, 3), 'number_of_kernels': 15, 'batch_size': 32, 'dropout_rate': 0.4, 'pooling_layer': 'avg', 'num_of_conv_layers': 4}
+Validation accuracy: 0.9000
+
+Trial 4/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 32, 'batch_size': 16, 'dropout_rate': 0.3, 'pooling_layer': 'avg', 'num_of_conv_layers': 4}
+Validation accuracy: 0.9040
+
+Trial 5/25
+Trying: {'kernel_size': (3, 3), 'number_of_kernels': 64, 'batch_size': 4, 'dropout_rate': 0.4, 'pooling_layer': 'max', 'num_of_conv_layers': 4}
+Validation accuracy: 0.8741
+
+Trial 6/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 32, 'batch_size': 8, 'dropout_rate': 0.5, 'pooling_layer': 'avg', 'num_of_conv_layers': 2}
+Validation accuracy: 0.9086
+
+Trial 7/25
+Trying: {'kernel_size': (7, 7), 'number_of_kernels': 32, 'batch_size': 16, 'dropout_rate': 0.3, 'pooling_layer': 'avg', 'num_of_conv_layers': 2}
+Validation accuracy: 0.8822
+
+Trial 8/25
+Trying: {'kernel_size': (7, 7), 'number_of_kernels': 64, 'batch_size': 8, 'dropout_rate': 0.4, 'pooling_layer': 'avg', 'num_of_conv_layers': 2}
+Validation accuracy: 0.8259
+
+Trial 9/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 32, 'batch_size': 16, 'dropout_rate': 0.3, 'pooling_layer': 'max', 'num_of_conv_layers': 4}
+Validation accuracy: 0.8954
+
+Trial 10/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 15, 'batch_size': 16, 'dropout_rate': 0.3, 'pooling_layer': 'max', 'num_of_conv_layers': 2}
+Validation accuracy: 0.8943
+
+Trial 11/25
+Trying: {'kernel_size': (3, 3), 'number_of_kernels': 64, 'batch_size': 4, 'dropout_rate': 0.4, 'pooling_layer': 'avg', 'num_of_conv_layers': 4}
+Validation accuracy: 0.9075
+
+Trial 12/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 15, 'batch_size': 16, 'dropout_rate': 0.4, 'pooling_layer': 'max', 'num_of_conv_layers': 3}
+Validation accuracy: 0.9069
+
+Trial 13/25
+Trying: {'kernel_size': (3, 3), 'number_of_kernels': 15, 'batch_size': 16, 'dropout_rate': 0.5, 'pooling_layer': 'avg', 'num_of_conv_layers': 2}
+Validation accuracy: 0.8994
+
+Trial 14/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 32, 'batch_size': 8, 'dropout_rate': 0.3, 'pooling_layer': 'avg', 'num_of_conv_layers': 4}
+Validation accuracy: 0.8885
+
+Trial 15/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 15, 'batch_size': 16, 'dropout_rate': 0.3, 'pooling_layer': 'max', 'num_of_conv_layers': 2}
+Validation accuracy: 0.9017
+
+Trial 16/25
+Trying: {'kernel_size': (3, 3), 'number_of_kernels': 64, 'batch_size': 32, 'dropout_rate': 0.5, 'pooling_layer': 'avg', 'num_of_conv_layers': 3}
+Validation accuracy: 0.9103
+
+Trial 17/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 15, 'batch_size': 32, 'dropout_rate': 0.5, 'pooling_layer': 'max', 'num_of_conv_layers': 2}
+Validation accuracy: 0.8983
+
+Trial 18/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 32, 'batch_size': 4, 'dropout_rate': 0.4, 'pooling_layer': 'avg', 'num_of_conv_layers': 2}
+Validation accuracy: 0.8707
+
+Trial 19/25
+Trying: {'kernel_size': (7, 7), 'number_of_kernels': 32, 'batch_size': 8, 'dropout_rate': 0.4, 'pooling_layer': 'avg', 'num_of_conv_layers': 2}
+Validation accuracy: 0.8753
+
+Trial 20/25
+Trying: {'kernel_size': (3, 3), 'number_of_kernels': 32, 'batch_size': 16, 'dropout_rate': 0.3, 'pooling_layer': 'avg', 'num_of_conv_layers': 4}
+Validation accuracy: 0.9126
+New best model found
+
+Trial 21/25
+Trying: {'kernel_size': (7, 7), 'number_of_kernels': 64, 'batch_size': 32, 'dropout_rate': 0.4, 'pooling_layer': 'avg', 'num_of_conv_layers': 2}
+Validation accuracy: 0.8454
+
+Trial 22/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 32, 'batch_size': 16, 'dropout_rate': 0.3, 'pooling_layer': 'max', 'num_of_conv_layers': 4}
+Validation accuracy: 0.8948
+
+Trial 23/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 15, 'batch_size': 8, 'dropout_rate': 0.4, 'pooling_layer': 'avg', 'num_of_conv_layers': 2}
+Validation accuracy: 0.8931
+
+Trial 24/25
+Trying: {'kernel_size': (7, 7), 'number_of_kernels': 32, 'batch_size': 8, 'dropout_rate': 0.3, 'pooling_layer': 'avg', 'num_of_conv_layers': 4}
+Validation accuracy: 0.8753
+
+Trial 25/25
+Trying: {'kernel_size': (5, 5), 'number_of_kernels': 15, 'batch_size': 16, 'dropout_rate': 0.5, 'pooling_layer': 'max', 'num_of_conv_layers': 2}
+Validation accuracy: 0.8879
+Best model trained and saved.
+
+Best Hyperparameters:
+kernel_size: (3, 3)
+number_of_kernels: 32
+batch_size: 16
+dropout_rate: 0.3
+pooling_layer: avg
+num_of_conv_layers: 4
+
+Best Model Metrics:
+train_accuracy: 0.9891
+val_accuracy: 0.9126
+train_loss: 0.0322
+val_loss: 0.4419

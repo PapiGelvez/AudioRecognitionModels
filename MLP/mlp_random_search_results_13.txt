@@ -1,0 +1,116 @@
+Trial 1/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 3, 'neurons_per_layer': 64, 'batch_size': 8, 'dropout_rate': 0.5}
+Validation accuracy: 0.7141
+New best model found
+
+Trial 2/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 4, 'neurons_per_layer': 256, 'batch_size': 32, 'dropout_rate': 0.5}
+Validation accuracy: 0.6569
+
+Trial 3/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 3, 'neurons_per_layer': 256, 'batch_size': 32, 'dropout_rate': 0.4}
+Validation accuracy: 0.7397
+New best model found
+
+Trial 4/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 2, 'neurons_per_layer': 64, 'batch_size': 16, 'dropout_rate': 0.4}
+Validation accuracy: 0.7441
+New best model found
+
+Trial 5/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 3, 'neurons_per_layer': 256, 'batch_size': 16, 'dropout_rate': 0.3}
+Validation accuracy: 0.7624
+New best model found
+
+Trial 6/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 4, 'neurons_per_layer': 256, 'batch_size': 32, 'dropout_rate': 0.5}
+Validation accuracy: 0.6510
+
+Trial 7/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 3, 'neurons_per_layer': 256, 'batch_size': 8, 'dropout_rate': 0.4}
+Validation accuracy: 0.7055
+
+Trial 8/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 2, 'neurons_per_layer': 128, 'batch_size': 4, 'dropout_rate': 0.4}
+Validation accuracy: 0.7110
+
+Trial 9/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 4, 'neurons_per_layer': 128, 'batch_size': 32, 'dropout_rate': 0.3}
+Validation accuracy: 0.7593
+
+Trial 10/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 4, 'neurons_per_layer': 256, 'batch_size': 4, 'dropout_rate': 0.5}
+Validation accuracy: 0.6476
+
+Trial 11/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 3, 'neurons_per_layer': 256, 'batch_size': 8, 'dropout_rate': 0.3}
+Validation accuracy: 0.7455
+
+Trial 12/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 2, 'neurons_per_layer': 256, 'batch_size': 8, 'dropout_rate': 0.3}
+Validation accuracy: 0.7400
+
+Trial 13/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 4, 'neurons_per_layer': 128, 'batch_size': 16, 'dropout_rate': 0.5}
+Validation accuracy: 0.7252
+
+Trial 14/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 2, 'neurons_per_layer': 256, 'batch_size': 16, 'dropout_rate': 0.3}
+Validation accuracy: 0.7472
+
+Trial 15/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 2, 'neurons_per_layer': 256, 'batch_size': 8, 'dropout_rate': 0.5}
+Validation accuracy: 0.6559
+
+Trial 16/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 4, 'neurons_per_layer': 64, 'batch_size': 8, 'dropout_rate': 0.4}
+Validation accuracy: 0.7097
+
+Trial 17/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 3, 'neurons_per_layer': 256, 'batch_size': 8, 'dropout_rate': 0.5}
+Validation accuracy: 0.7131
+
+Trial 18/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 4, 'neurons_per_layer': 128, 'batch_size': 4, 'dropout_rate': 0.5}
+Validation accuracy: 0.6466
+
+Trial 19/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 2, 'neurons_per_layer': 64, 'batch_size': 8, 'dropout_rate': 0.5}
+Validation accuracy: 0.7183
+
+Trial 20/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 2, 'neurons_per_layer': 256, 'batch_size': 16, 'dropout_rate': 0.5}
+Validation accuracy: 0.7272
+
+Trial 21/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 3, 'neurons_per_layer': 64, 'batch_size': 8, 'dropout_rate': 0.5}
+Validation accuracy: 0.7141
+
+Trial 22/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 4, 'neurons_per_layer': 128, 'batch_size': 32, 'dropout_rate': 0.5}
+Validation accuracy: 0.6521
+
+Trial 23/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 2, 'neurons_per_layer': 256, 'batch_size': 4, 'dropout_rate': 0.4}
+Validation accuracy: 0.6593
+
+Trial 24/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 2, 'neurons_per_layer': 128, 'batch_size': 32, 'dropout_rate': 0.5}
+Validation accuracy: 0.7283
+
+Trial 25/25 - Searching random hyperparameters...
+Trying: {'num_hidden_layers': 2, 'neurons_per_layer': 256, 'batch_size': 8, 'dropout_rate': 0.5}
+Validation accuracy: 0.7159
+Best model trained and saved.
+
+Best Hyperparameters:
+num_hidden_layers: 3
+neurons_per_layer: 256
+batch_size: 16
+dropout_rate: 0.3
+
+Best Model Metrics:
+train_accuracy: 0.7468
+val_accuracy: 0.7624
+train_loss: 0.4665
+val_loss: 0.4402
